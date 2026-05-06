@@ -13,8 +13,8 @@
 ---
 
 ## Linguagens Estudadas:
--Python;
--C++
+- Python;
+- C++
 
 ---
 
