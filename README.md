@@ -13,7 +13,7 @@
 ---
 
 ## Linguagens Estudadas:
-- Python;
+- 🐍 Python;
 - C++
 
 ---
