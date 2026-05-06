@@ -14,7 +14,7 @@
 
 ## Linguagens Estudadas:
 - 🐍 Python;
-- C++
+- 🚀 C++
 
 ---
 
